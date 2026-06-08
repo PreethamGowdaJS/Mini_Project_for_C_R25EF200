@@ -230,3 +230,6 @@ int main(void) {
         }
     }
 }
+/* Compile: gcc main.c -o graphics.exe -lm */
+/* Run: .\graphics.exe */
+/* the above line shows how to run the program */
