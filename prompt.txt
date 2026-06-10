@@ -3,10 +3,6 @@ Write a 2D graphics editor in C using a 2D character array.
 The program should draw circles, rectangles, lines, and triangles,
 and support add, delete, modify, and display operations.
 
-Response:
-(Generated code and explanation)
-
---------------------------------------------------
 
 Prompt 2:
 How do I create a GitHub repository and push my C project?
