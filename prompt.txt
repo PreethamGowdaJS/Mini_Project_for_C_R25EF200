@@ -1,0 +1,38 @@
+Prompt 1:
+Write a 2D graphics editor in C using a 2D character array.
+The program should draw circles, rectangles, lines, and triangles,
+and support add, delete, modify, and display operations.
+
+Response:
+(Generated code and explanation)
+
+--------------------------------------------------
+
+Prompt 2:
+How do I create a GitHub repository and push my C project?
+
+Response:
+git init
+git add .
+git commit -m "Initial project upload"
+git remote add origin ...
+git push -u origin main
+
+--------------------------------------------------
+
+Prompt 3:
+M_PI undeclared error in C.
+
+Response:
+#ifndef M_PI
+#define M_PI 3.14159265358979323846
+#endif
+
+--------------------------------------------------
+
+Prompt 4:
+How do I compile and run this program using GCC?
+
+Response:
+gcc main.c -o graphics.exe -lm
+.\graphics.exe
